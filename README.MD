@@ -17,10 +17,10 @@ Criar um sistema multiagente para **gerar roteiros e thumbnails para vídeos de 
 
 Rodar
 
-```bash
-python main.py
+   ```bash
+   python main.py
 
 Input:
 
-```bash
-inputs={"query": "Melhores jogos de 2020"}
+   ```bash
+   inputs={"query": "Melhores jogos de 2020"}
